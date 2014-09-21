@@ -5,6 +5,8 @@ A sleek SVG webfont containing 74 icons of all main payment operators and method
 
 Originally made for our [WooCommerce Payment Methods](https://wordpress.org/plugins/woocommerce-payment-methods/) Plugin for WordPress.
 
+![alt tag](https://github.com/vendocrat/WooComerce-Payment-Methods/blob/master/woocommerce-payment-methods/screenshot-1.png)
+
 ##Usage/Example
 
 ```html
