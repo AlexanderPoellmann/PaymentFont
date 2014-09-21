@@ -5,6 +5,16 @@ A sleek SVG webfont containing 74 icons of all main payment operators and method
 
 Originally made for our [WooCommerce Payment Methods](https://wordpress.org/plugins/woocommerce-payment-methods/) Plugin for WordPress.
 
+##Usage/Example
+
+```html
+<i class="pf pf-paypal"></i> PayPal
+```
+
+You can view all classes in the [Preview Image](https://github.com/vendocrat/PaymentFont/blob/master/preview.png)
+
+![alt tag](https://github.com/vendocrat/PaymentFont/blob/master/preview.png)
+
 ##Included Icons
 Here's an incomplete list of the included icons:
 
