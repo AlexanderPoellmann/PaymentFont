@@ -30,7 +30,7 @@ Here's an incomplete list of the included icons:
 * Facture
 * Flattr
 * Giropay
-* Gittip',
+* Gittip
 * Google Wallet
 * Ideal
 * Invoice
@@ -75,7 +75,7 @@ Here's an incomplete list of the included icons:
 - The CSS files are licensed under the MIT License:
   - http://opensource.org/licenses/mit-license.html
 - Attribution is not required, but much appreciated:
-  - PaymentFont by vendocrat - http://vendocr.at`
+  - PaymentFont by vendocrat - http://vendocr.at
 
 ##Disclaimer
 All used trademarks, brands and/or names are the property of their respective owners.
