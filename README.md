@@ -1,4 +1,4 @@
-PaymentFont 0.1.1
+PaymentFont 0.1.2
 =================
 
 A sleek SVG webfont containing 74 icons of all main payment operators and methods.
@@ -76,8 +76,9 @@ Here's an incomplete list of the included icons:
 * Wirecard
 
 ##Changelog
-- v0.1.0 Initial release. (74 icons)
-- v0.1.1 Minor fixes and improvements, added demo site [PaymentFont.io](http://paymentfont.io).
+- 2014-09-22 v0.1.0 Initial release. (74 icons)
+- 2014-10-29 v0.1.1 Minor fixes and improvements, added demo site [PaymentFont.io](http://paymentfont.io).
+- 2014-10-30 v0.1.2 Added "copy to clipboard" functionality to demo site.
 
 ##Todo
 - Add a demo site
