@@ -1,7 +1,7 @@
-PaymentFont 0.1.2
+PaymentFont 0.2.0
 =================
 
-A sleek SVG webfont containing 74 icons of all main payment operators and methods.
+A sleek SVG webfont containing 85 icons of all main payment operators and methods.
 
 Originally made for our [WooCommerce Payment Methods](https://wordpress.org/plugins/woocommerce-payment-methods/) Plugin for WordPress:
 
@@ -24,7 +24,9 @@ Here's an incomplete list of the included icons:
 
 * Amazon
 * American Express
+* Apple Pay (new in 0.2.0)
 * ATM
+* Bancontact/Mister Cash (new in 0.2.0)
 * Bank Transfer
 * Bankomat
 * Bitcoin
@@ -32,10 +34,12 @@ Here's an incomplete list of the included icons:
 * Carta Si
 * Cash
 * Cash on Delivery
+* Cash on Pickup (new in 0.2.0)
 * CB
 * Cirrus
 * ClickAndBuy
 * Credit Card
+* Dankort (new in 0.2.0)
 * Diners Club
 * Discover
 * EC (Electronic Cash)
@@ -52,9 +56,12 @@ Here's an incomplete list of the included icons:
 * Maestro
 * Mastercard
 * Mastercard Securecode
+* Moip (new in 0.2.0)
 * Ogone
-* PayBox
+* pagseguro (new in 0.2.0)
+* Paybox
 * Paylife
+* Paymill (new in 0.2.0)
 * PayPal
 * paysafecard
 * postepay
@@ -62,6 +69,8 @@ Here's an incomplete list of the included icons:
 * Rechnung
 * Invoice
 * Ripple
+* Sage (new in 0.2.0)
+* SEPA (new in 0.2.0)
 * Skrill
 * SofortÜberweisung
 * Square
@@ -79,6 +88,7 @@ Here's an incomplete list of the included icons:
 - 2014-09-22 v0.1.0 Initial release. (74 icons)
 - 2014-10-29 v0.1.1 Minor fixes and improvements, added demo site [PaymentFont.io](http://paymentfont.io).
 - 2014-10-30 v0.1.2 Added "copy to clipboard" functionality to demo site.
+- 2014-12-09 v0.2.0 Added 11 new icons, updated pf-paypal, pf-paypal-alt and pf-paylife.
 
 ##Todo
 - Add a demo site

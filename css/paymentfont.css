@@ -1,8 +1,8 @@
 /**
- * PaymentFont Styles 0.1.0
+ * PaymentFont Styles 0.2.0
  *
  * @since     2014-09-21
- * @version   2014-09-22
+ * @version   2014-12-09
  *
  * @author    Poellmann Alexander Manfred <alex@vendocr.at>
  * @copyright Copyright 2014 vendocrat. All Rights Reserved.
@@ -250,6 +250,39 @@
 }
 .pf-wirecard:before {
 	content: "\f049";
+}
+.pf-sepa:before {
+	content: "\f04a";
+}
+.pf-sepa-alt:before {
+	content: "\f04b";
+}
+.pf-apple-pay:before {
+	content: "\f04c";
+}
+.pf-interac:before {
+	content: "\f04d";
+}
+.pf-paymill:before {
+	content: "\f04e";
+}
+.pf-dankort:before {
+	content: "\f04f";
+}
+.pf-bancontact-mister-cash:before {
+	content: "\f050";
+}
+.pf-moip:before {
+	content: "\f051";
+}
+.pf-pagseguro:before {
+	content: "\f052";
+}
+.pf-cash-on-pickup:before {
+	content: "\f053";
+}
+.pf-sage:before {
+	content: "\f054";
 }
 
 /*
