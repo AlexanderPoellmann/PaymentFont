@@ -1,0 +1,19 @@
+{
+  "name": "paymentfont",
+  "description": "A sleek SVG webfont for payment operators and methods.",
+  "version": "0.2.0",
+  "keywords": [],
+  "homepage": "http://paymentfont.io",
+  "dependencies": {},
+  "devDependencies": {},
+  "license": ["OFL-1.1", "MIT"],
+  "main": [
+    "./css/*",
+    "./fonts/*"
+  ],
+  "ignore": [
+    "*/.*",
+    "*.png",
+    "*.md"
+  ]
+}
