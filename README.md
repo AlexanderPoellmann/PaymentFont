@@ -1,4 +1,4 @@
-PaymentFont 0.2.0
+PaymentFont 1.0.0
 =================
 
 A sleek SVG webfont containing 85 icons of all main payment operators and methods.
@@ -43,12 +43,13 @@ Here's an incomplete list of the included icons:
 * Diners Club
 * Discover
 * EC (Electronic Cash)
+* elo (new in 1.0.0)
 * EPS
 * Fattura
 * Facture
 * Flattr
 * Giropay
-* Gittip
+* Gratipay (raplaces Gittip, since 1.0.0)
 * Google Wallet
 * Ideal
 * Invoice
@@ -56,7 +57,9 @@ Here's an incomplete list of the included icons:
 * Maestro
 * Mastercard
 * Mastercard Securecode
+* Mercado Pago (new in 1.0.0)
 * Moip (new in 0.2.0)
+* Multibanco (new in 1.0.0)
 * Ogone
 * pagseguro (new in 0.2.0)
 * Paybox
@@ -64,6 +67,8 @@ Here's an incomplete list of the included icons:
 * Paymill (new in 0.2.0)
 * PayPal
 * paysafecard
+* payshop (new in 1.0.0)
+* PayU (new in 1.0.0)
 * postepay
 * Quick
 * Rechnung
@@ -71,6 +76,7 @@ Here's an incomplete list of the included icons:
 * Ripple
 * Sage (new in 0.2.0)
 * SEPA (new in 0.2.0)
+* SIX (new in 1.0.0)
 * Skrill
 * SofortÜberweisung
 * Square
@@ -84,16 +90,15 @@ Here's an incomplete list of the included icons:
 * Western Union
 * Wirecard
 
+##Installation
+To be added, feel welcome to contribute an installation guide ;)
+
 ##Changelog
 - 2014-09-22 v0.1.0 Initial release. (74 icons)
 - 2014-10-29 v0.1.1 Minor fixes and improvements, added demo site [PaymentFont.io](http://paymentfont.io).
 - 2014-10-30 v0.1.2 Added "copy to clipboard" functionality to demo site.
 - 2014-12-09 v0.2.0 Added 11 new icons, updated pf-paypal, pf-paypal-alt and pf-paylife.
-
-##Todo
-- Add a demo site
-- Add Less/SCSS
-- Add Installation/Usage examples
+- 2014-12-17 v1.0.0 Added 9 new icons, replaced Gittip with Gratipay (new alias pf-gratipay), added Bower and Git Tags, submitted to Fontello
 
 ##License
 - The font is licensed under the SIL OFL 1.1:
@@ -111,3 +116,5 @@ The use of these trademarks, brands and/or names does not indicate endorsement o
 **Handcrafted with love by [vendocrat](http://vendocr.at/) in Vienna &amp; Rome.**
 
 Follow us on [Twitter](https://twitter.com/vendocrat), like us on [Facebook](https://www.facebook.com/vendocrat), circle us on [Google+](https://plus.google.com/+vendocrat) or fork us on [GitHub](https://github.com/vendocrat)!
+
+[![Analytics](https://ga-beacon.appspot.com/UA-57742328-1/vendocrat/PaymentFont)](https://github.com/igrigorik/ga-beacon)

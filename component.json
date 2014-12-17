@@ -1,0 +1,23 @@
+{
+  "name": "paymentfont",
+  "repo": "vendocrat/PaymentFont",
+  "description": "A sleek webfont containing icons of all main payment operators and methods",
+  "version": "1.0.0",
+  "keywords": [
+    "payment",
+    "webfont",
+    "font",
+    "icon",
+  ],
+  "fonts": [
+    "fonts/paymentfont-webfont.eot",
+    "fonts/paymentfont-webfont.svg",
+    "fonts/paymentfont-webfont.ttf",
+    "fonts/paymentfont-webfont.woff"
+  ],
+  "styles": [
+    "css/paymentfont.css"
+    "css/paymentfont.min.css"
+  ],
+  "license": ["OFL-1.1", "MIT"],
+}

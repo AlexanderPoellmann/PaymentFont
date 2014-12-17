@@ -1,8 +1,8 @@
 /**
- * PaymentFont Styles 0.2.0
+ * PaymentFont Styles 1.0.0
  *
  * @since     2014-09-21
- * @version   2014-12-09
+ * @version   2014-12-17
  *
  * @author    Poellmann Alexander Manfred <alex@vendocr.at>
  * @copyright Copyright 2014 vendocrat. All Rights Reserved.
@@ -113,7 +113,8 @@
 .pf-giropay:before {
 	content: "\f01b";
 }
-.pf-gittip:before {
+.pf-gittip:before,
+.pf-gratipay:before {
 	content: "\f01c";
 }
 .pf-google-wallet:before {
@@ -283,6 +284,33 @@
 }
 .pf-sage:before {
 	content: "\f054";
+}
+.pf-elo:before {
+	content: "\f055";
+}
+.pf-elo-alt:before {
+	content: "\f056";
+}
+.pf-payu:before {
+	content: "\f057";
+}
+.pf-mercado-pago:before {
+	content: "\f058";
+}
+.pf-mercado-pago-sign:before {
+	content: "\f059";
+}
+.pf-payshop:before {
+	content: "\f05a";
+}
+.pf-multibanco:before {
+	content: "\f05b";
+}
+.pf-gratipay-sign:before {
+	content: "\f05c";
+}
+.pf-six:before {
+	content: "\f05d";
 }
 
 /*
