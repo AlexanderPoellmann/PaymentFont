@@ -1,24 +1,24 @@
 {
-  "name": "paymentfont",
-  "description": "A sleek webfont containing icons of all main payment operators and methods",
-  "version": "1.0.0",
-  "keywords": [
-    "payment",
-    "webfont",
-    "font",
-    "icon"
-  ],
-  "homepage": "http://paymentfont.io",
-  "dependencies": {},
-  "devDependencies": {},
-  "license": ["OFL-1.1", "MIT"],
-  "main": [
-    "./css/*",
-    "./fonts/*"
-  ],
-  "ignore": [
-    "*/.*",
-    "*.png",
-    "*.md"
-  ]
+	"name": "paymentfont",
+	"description": "Sleek font etc",
+	"version": "1.0.0",
+	"keywords": [
+		"payment",
+		"webfont",
+		"font",
+		"icon"
+	],
+	"homepage": "http://paymentfont.io",
+	"dependencies": {},
+	"devDependencies": {},
+	"license": ["OFL-1.1","MIT"],
+	"main": [
+		"./css/*",
+		"./fonts/*"
+	],
+	"ignore": [
+		"*/.*",
+		"*.png",
+		"*.md"
+	]
 }
