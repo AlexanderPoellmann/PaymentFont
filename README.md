@@ -1,7 +1,7 @@
 PaymentFont 1.0.1
 =================
 
-A sleek webfont containing 94 icons of all main payment operators and methods.
+A sleek webfont containing icons of all main payment operators and methods.
 
 Originally made for our [WooCommerce Payment Methods](https://wordpress.org/plugins/woocommerce-payment-methods/) Plugin for WordPress:
 
