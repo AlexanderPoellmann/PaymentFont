@@ -1,12 +1,12 @@
 /**
- * PaymentFont Styles 1.0.0
+ * PaymentFont Styles 1.0.1
  *
  * @since     2014-09-21
- * @version   2014-12-17
+ * @version   2015-01-17
  *
  * @author    Poellmann Alexander Manfred <alex@vendocr.at>
  * @copyright Copyright 2014 vendocrat. All Rights Reserved.
- * @link      http://vendocr.at/
+ * @link      https://vendocr.at/
  *
  * @license   Font: SIL OFL 1.1, CSS: MIT License
  */
@@ -312,7 +312,10 @@
 .pf-six:before {
 	content: "\f05d";
 }
+.pf-cashcloud:before {
+	content: "\f05e";
+}
 
 /*
- * E fatto!
+ * Finito!
  */

@@ -1,4 +1,4 @@
-PaymentFont 1.0.0
+PaymentFont 1.0.1
 =================
 
 A sleek webfont containing 94 icons of all main payment operators and methods.
@@ -35,6 +35,7 @@ Here's an incomplete list of the included icons:
 * Cash
 * Cash on Delivery
 * Cash on Pickup (new in 0.2.0)
+* cashcloud (new in 1.0.1)
 * CB
 * Cirrus
 * ClickAndBuy
@@ -49,7 +50,7 @@ Here's an incomplete list of the included icons:
 * Facture
 * Flattr
 * Giropay
-* Gratipay (raplaces Gittip, since 1.0.0)
+* Gratipay (replaces Gittip, since 1.0.0)
 * Google Wallet
 * Ideal
 * Invoice
@@ -98,7 +99,8 @@ To be added, feel welcome to contribute an installation guide ;)
 - 2014-10-29 v0.1.1 Minor fixes and improvements, added demo site [PaymentFont.io](http://paymentfont.io).
 - 2014-10-30 v0.1.2 Added "copy to clipboard" functionality to demo site.
 - 2014-12-09 v0.2.0 Added 11 new icons, updated pf-paypal, pf-paypal-alt and pf-paylife.
-- 2014-12-17 v1.0.0 Added 9 new icons, replaced Gittip with Gratipay (new alias pf-gratipay), added Bower and Git Tags, submitted to Fontello
+- 2014-12-17 v1.0.0 Added 9 new icons, replaced Gittip with Gratipay (new alias pf-gratipay), added Bower and Git Tags, submitted to Fontello.
+- 2015-01-17 v1.0.1 Added 1 new icon, updated Braintree icon, minor enhancements.
 
 ##License
 - The font is licensed under the SIL OFL 1.1:
@@ -113,7 +115,7 @@ All used trademarks, brands and/or names are the property of their respective ow
 The use of these trademarks, brands and/or names does not indicate endorsement of the property holder by us, nor vice versa.
 
 ##Author
-**Handcrafted with love by [vendocrat](http://vendocr.at/) in Vienna &amp; Rome.**
+**Handcrafted with love by [vendocrat](https://vendocr.at/) in Vienna &amp; Rome.**
 
 Follow us on [Twitter](https://twitter.com/vendocrat), like us on [Facebook](https://www.facebook.com/vendocrat), circle us on [Google+](https://plus.google.com/+vendocrat) or fork us on [GitHub](https://github.com/vendocrat)!
 
