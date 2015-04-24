@@ -1,4 +1,4 @@
-PaymentFont 1.0.1
+PaymentFont 1.1.0
 =================
 
 A sleek webfont containing icons of all main payment operators and methods.
@@ -101,6 +101,7 @@ To be added, feel welcome to contribute an installation guide ;)
 - 2014-12-09 v0.2.0 Added 11 new icons, updated pf-paypal, pf-paypal-alt and pf-paylife.
 - 2014-12-17 v1.0.0 Added 9 new icons, replaced Gittip with Gratipay (new alias pf-gratipay), added Bower and Git Tags, submitted to Fontello.
 - 2015-01-17 v1.0.1 Added 1 new icon, updated Braintree icon, minor enhancements.
+- 2015-04-24 v1.1.0 Improved performance, added WOFF2, fixed Bower config - finally ;)
 
 ##License
 - The font is licensed under the SIL OFL 1.1:

@@ -1,11 +1,11 @@
 /**
- * PaymentFont Styles 1.0.1
+ * PaymentFont Styles 1.1.0
  *
  * @since     2014-09-21
- * @version   2015-01-17
+ * @version   2015-04-24
  *
- * @author    Poellmann Alexander Manfred <alex@vendocr.at>
- * @copyright Copyright 2014 vendocrat. All Rights Reserved.
+ * @author    Poellmann Alexander Manfred (@AMPoellmann)
+ * @copyright Copyright 2015 vendocrat. All Rights Reserved.
  * @link      https://vendocr.at/
  *
  * @license   Font: SIL OFL 1.1, CSS: MIT License
@@ -15,6 +15,7 @@
   font-family:'PaymentFont';
   src:url('../fonts/paymentfont-webfont.eot');
   src:url('../fonts/paymentfont-webfont.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/paymentfont-webfont.woff') format('woff2'),
       url('../fonts/paymentfont-webfont.woff') format('woff'),
       url('../fonts/paymentfont-webfont.ttf') format('truetype'),
       url('../fonts/paymentfont-webfont.svg#paymentfont-webfont') format('svg');
