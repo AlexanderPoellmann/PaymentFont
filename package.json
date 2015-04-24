@@ -1,0 +1,31 @@
+{
+  "name": "paymentfont",
+  "description": "PaymentFont - A sleek webfont containing icons of all main payment operators and methods",
+  "version": "1.1.1",
+  "keywords": [
+    "payment",
+    "webfont",
+    "font",
+    "icon",
+  ],
+  "homepage": "http://paymentfont.io/",
+  "bugs": {
+    "url" : "http://github.com/vendocrat/PaymentFont/issues"
+  },
+  "author": {
+    "name": "Alexander Manfred Poellmann",
+    "web": "http://twitter.com/AMPoellmann"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vendocrat/PaymentFont.git"
+  },
+  "contributors": [],
+  "dependencies": {
+  },
+  "engines" : {
+    "node" : ">=0.10.3"
+  }
+  "license" : "OFL-1.1", "MIT", "CC-BY-3.0"
+}
+
