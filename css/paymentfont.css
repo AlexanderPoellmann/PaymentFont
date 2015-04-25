@@ -1,5 +1,5 @@
 /**
- * PaymentFont Styles 1.1.1
+ * PaymentFont Styles 1.1.2
  *
  * @since     2014-09-21
  * @version   2015-04-24
@@ -124,7 +124,7 @@
 .pf-google-wallet-alt:before {
 	content: "\f01e";
 }
-.pf-gpb:before {
+.pf-gbp:before {
 	content: "\f01f";
 }
 .pf-ideal:before {
