@@ -28,8 +28,25 @@
   font-size:inherit;
   text-rendering:auto;
   -webkit-font-smoothing:antialiased;
-  -moz-osx-font-smoothing:grayscale;}
-
+  -moz-osx-font-smoothing:grayscale;
+}
+.pf-lg {
+  font-size: 1.33333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+.pf-2x {
+  font-size: 2em;
+}
+.pf-3x {
+  font-size: 3em;
+}
+.pf-4x {
+  font-size: 4em;
+}
+.pf-5x {
+  font-size: 5em;
+}
 .pf-amazon:before {
 	content: "\f000";
 }
