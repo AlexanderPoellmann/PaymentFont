@@ -1,6 +1,6 @@
 {
 	"name": "paymentfont",
-	"description": "PaymentFont - A sleek webfont containing icons of all main payment operators and methods",
+	"description": "PaymentFont - A sleek webfont for your favourite payment operators and methods",
 	"version": "1.1.2",
 	"keywords": [
 		"payment",
@@ -14,7 +14,8 @@
 	"license": ["OFL-1.1", "MIT", "CC-BY-3.0"],
 	"main": [
 		"./css/*",
-		"./fonts/*"
+		"./fonts/*",
+		"./sass/*"
 	],
 	"ignore": [
 		"*/.*",
