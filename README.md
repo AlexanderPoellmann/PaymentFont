@@ -1,4 +1,4 @@
-PaymentFont 1.1.2
+PaymentFont 1.2.0
 =================
 
 A sleek webfont for your favourite payment operators and methods.
@@ -99,6 +99,7 @@ Here's an incomplete list of the included icons:
 - 2015-04-24 v1.1.0 Improved performance, added WOFF2, fixed Bower config - finally ;)
 - 2015-04-24 v1.1.1 Quick fix for icon vertical offset, added package.json.
 - 2015-04-26 v1.1.2 Fixed a typo in CSS class for Great British Pound (pf-gpb is now pf-gbp).
+- 2017-06-24 v1.2.0 Added 20 new icons, updated a few icons, added SASS, misc tweaks.
 
 ## License
 
