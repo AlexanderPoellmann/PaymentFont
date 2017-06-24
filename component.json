@@ -1,26 +1,26 @@
 {
   "name": "paymentfont",
-  "repo": "vendocrat/PaymentFont",
-  "description": "PaymentFont - A sleek webfont containing icons of all main payment operators and methods",
+  "repo": "AlexanderPoellmann/PaymentFont",
+  "description": "PaymentFont - A sleek webfont for your favourite payment operators and methods",
   "version": "1.1.2",
   "keywords": [
     "payment",
     "webfont",
     "font",
-    "icon",
+    "icon"
   ],
   "dependencies": {},
   "development": {},
   "license": "SIL, MIT, CC BY 3.0",
   "styles": [
-    "css/paymentfont.css"
+    "css/paymentfont.css",
     "css/paymentfont.min.css"
   ],
   "fonts": [
     "fonts/paymentfont-webfont.eot",
     "fonts/paymentfont-webfont.svg",
     "fonts/paymentfont-webfont.ttf",
-    "fonts/paymentfont-webfont.woff"
+    "fonts/paymentfont-webfont.woff",
     "fonts/PaymentFont.otf"
-  ],
+  ]
 }
