@@ -7,8 +7,6 @@ Originally made for our [WooCommerce Payment Methods](https://wordpress.org/plug
 
 ![WooCommerce Payment Methods](https://github.com/vendocrat/WooCommerce-Payment-Methods/blob/master/screenshot-1.png)
 
-**Get started at [PaymentFont.io](http://paymentfont.io)!**
-
 ## Getting Started
 
 ```html
