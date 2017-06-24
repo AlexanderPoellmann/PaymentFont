@@ -15,6 +15,10 @@ Originally made for our [WooCommerce Payment Methods](https://wordpress.org/plug
 
 **Get started at [PaymentFont.io](http://paymentfont.io)!**
 
+## Check out [CryptoFont](https://github.com/AlexanderPoellmann/CryptoFont)
+
+Looking for a sleek webfont featuring your favourite cryptocurrencies? **Check out [CryptoFont](https://github.com/AlexanderPoellmann/CryptoFont)!**
+
 ## Included Icons
 
 Here's an incomplete list of the included icons:
