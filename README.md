@@ -105,6 +105,14 @@ Here's an incomplete list of the included icons:
 - 2015-04-26 v1.1.2 Fixed a typo in CSS class for Great British Pound (pf-gpb is now pf-gbp).
 - 2017-06-24 v1.2.0 Added 20 new icons, updated a few icons, added SASS, misc tweaks.
 
+## Donate
+
+PaymentFont was useful to you? Awesome! So, why not buy me a beer to keep the project going?
+
+- **BTC** 1FTDxAPUifxGYgyeYETSKsjpdk1UkHGHCz
+- **ETH** 0x5F11a99CC6B3bD632d47F015605Ce30e4225de98
+- **LTC** LZVmCzRsh7oRd6Qhg1XWkmxMcbmKbFHBvN
+
 ## License
 
 - The font is licensed under the SIL OFL 1.1:
