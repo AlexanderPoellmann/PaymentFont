@@ -109,7 +109,7 @@ Here's an incomplete list of the included icons:
 - The CSS files are licensed under the MIT License:
   - http://opensource.org/licenses/mit-license.html
 - Attribution is not required, but much appreciated:
-  - PaymentFont by vendocrat - http://paymentfont.io
+  - PaymentFont by @AMPoellmann - http://paymentfont.io
 
 ## Disclaimer
 
