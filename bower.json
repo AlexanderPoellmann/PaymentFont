@@ -13,7 +13,7 @@
 	"devDependencies": {},
 	"license": ["OFL-1.1", "MIT", "CC-BY-3.0"],
 	"main": [
-		"scss/cryptofont.scss"
+		"scss/paymentfont.scss"
 	],
 	"ignore": [
 		"*/.*",
