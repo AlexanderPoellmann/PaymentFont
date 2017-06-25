@@ -109,9 +109,8 @@ Here's an incomplete list of the included icons:
 
 PaymentFont was useful to you? Awesome! So, why not buy me a beer to keep the project going?
 
-- **BTC** 1FTDxAPUifxGYgyeYETSKsjpdk1UkHGHCz
-- **ETH** 0x5F11a99CC6B3bD632d47F015605Ce30e4225de98
-- **LTC** LZVmCzRsh7oRd6Qhg1XWkmxMcbmKbFHBvN
+- **[Donate Bitcoins](https://www.coinbase.com/checkouts/b49f0248be35b6bd5629df8c3a8c5e10)**
+- **[Donate with PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=donate@vendocr.at&currency_code=EUR&amount=&return=&item_name=Buy+me+a+beer!)**
 
 ## License
 
