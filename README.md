@@ -104,6 +104,7 @@ Here's an incomplete list of the included icons:
 - 2015-04-24 v1.1.1 Quick fix for icon vertical offset, added package.json.
 - 2015-04-26 v1.1.2 Fixed a typo in CSS class for Great British Pound (pf-gpb is now pf-gbp).
 - 2017-06-24 v1.2.0 Added 20 new icons, updated a few icons, added SASS, misc tweaks.
+- 2017-06-25 v1.2.1 Minor tweak.
 
 ## Donate
 
