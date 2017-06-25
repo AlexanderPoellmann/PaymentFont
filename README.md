@@ -1,4 +1,4 @@
-PaymentFont 1.2.0
+PaymentFont 1.2.3
 =================
 
 A sleek webfont for your favourite payment operators and methods.
@@ -105,6 +105,8 @@ Here's an incomplete list of the included icons:
 - 2015-04-26 v1.1.2 Fixed a typo in CSS class for Great British Pound (pf-gpb is now pf-gbp).
 - 2017-06-24 v1.2.0 Added 20 new icons, updated a few icons, added SASS, misc tweaks.
 - 2017-06-25 v1.2.1 Minor tweak.
+- 2017-06-25 v1.2.2 Fix css classes.
+- 2017-06-25 v1.2.3 Update version number.
 
 ## Donate
 
