@@ -1,4 +1,4 @@
-PaymentFont 1.2.3
+PaymentFont 1.2.4
 =================
 
 A sleek webfont for your favourite payment operators and methods.
@@ -107,6 +107,7 @@ Here's an incomplete list of the included icons:
 - 2017-06-25 v1.2.1 Minor tweak.
 - 2017-06-25 v1.2.2 Fix css classes.
 - 2017-06-25 v1.2.3 Update version number.
+- 2017-06-25 v1.2.4 Fix version number for dependency managers.
 
 ## Donate
 
