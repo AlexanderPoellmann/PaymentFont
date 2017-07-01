@@ -4,15 +4,15 @@
  */
 
 @font-face {
-  font-family:'PaymentFont';
-  src:url('../fonts/paymentfont-webfont.eot');
-  src:url('../fonts/paymentfont-webfont.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/paymentfont-webfont.woff') format('woff2'),
-      url('../fonts/paymentfont-webfont.woff') format('woff'),
-      url('../fonts/paymentfont-webfont.ttf') format('truetype'),
-      url('../fonts/paymentfont-webfont.svg#paymentfont-webfont') format('svg');
-  font-weight:normal;
-  font-style:normal;
+  font-family: 'PaymentFont';
+  src: url('../fonts/paymentfont-webfont.eot');
+  src: url('../fonts/paymentfont-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/paymentfont-webfont.woff') format('woff2'),
+       url('../fonts/paymentfont-webfont.woff') format('woff'),
+       url('../fonts/paymentfont-webfont.ttf') format('truetype'),
+       url('../fonts/paymentfont-webfont.svg#paymentfont-webfont') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
 
 .pf {
@@ -22,6 +22,24 @@
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.pf-lg {
+  font-size: 1.33333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+.pf-2x {
+  font-size: 2em;
+}
+.pf-3x {
+  font-size: 3em;
+}
+.pf-4x {
+  font-size: 4em;
+}
+.pf-5x {
+  font-size: 5em;
 }
 
 .pf-amazon:before {
