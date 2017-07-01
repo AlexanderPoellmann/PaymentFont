@@ -1,0 +1,13 @@
+// Mixins
+// ------
+
+@mixin pf-icon() {
+	display: inline-block;
+	font: normal normal normal #{$pf-font-size-base}/#{$pf-line-height-base} $pf-font-name;
+	font-size: inherit;
+	text-rendering: auto;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
