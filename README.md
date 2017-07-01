@@ -9,6 +9,26 @@ Originally made for our [WooCommerce Payment Methods](https://wordpress.org/plug
 
 ## Getting Started
 
+**Install with Bower**
+
+```bash
+$ bower install paymentfont
+```
+
+**Install with npm**
+
+```bash
+$ npm install paymentfont
+```
+
+**Install with Composer**
+
+```bash
+$ composer require alexanderpoellmann/paymentfont
+```
+
+Then copy the font files into your project, include the CSS file or import the Sass/Less file and there you go, now you can place the icons wherever you want like so:
+
 ```html
 <i class="pf pf-stripe"></i> Stripe
 ```
