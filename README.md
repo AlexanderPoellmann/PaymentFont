@@ -1,7 +1,7 @@
 PaymentFont 1.2.5
 =================
 
-A sleek webfont for your favourite payment operators and methods.
+A sleek webfont for your favourite payment operators and methods. **Get started at [PaymentFont.com](https://paymentfont.com)!**
 
 Originally made for our [WooCommerce Payment Methods](https://wordpress.org/plugins/woocommerce-payment-methods/) Plugin for WordPress:
 
