@@ -33,11 +33,7 @@ Then copy the font files into your project, include the CSS file or import the S
 <i class="pf pf-stripe"></i> Stripe
 ```
 
-**Get started at [PaymentFont.io](http://paymentfont.io)!**
-
-## Check out [CryptoFont](https://github.com/AlexanderPoellmann/CryptoFont)
-
-Looking for a sleek webfont featuring your favourite cryptocurrencies? **Check out [CryptoFont](https://github.com/AlexanderPoellmann/CryptoFont)!**
+**Get started at [PaymentFont.com](https://paymentfont.com)!**
 
 ## Included Icons
 
@@ -115,7 +111,7 @@ Here's an incomplete list of the included icons:
 ## Changelog
 
 - 2014-09-22 v0.1.0 Initial release. (74 icons)
-- 2014-10-29 v0.1.1 Minor fixes and improvements, added demo site [PaymentFont.io](http://paymentfont.io).
+- 2014-10-29 v0.1.1 Minor fixes and improvements, added demo site [PaymentFont.com](https://paymentfont.com).
 - 2014-10-30 v0.1.2 Added "copy to clipboard" functionality to demo site.
 - 2014-12-09 v0.2.0 Added 11 new icons, updated pf-paypal, pf-paypal-alt and pf-paylife.
 - 2014-12-17 v1.0.0 Added 9 new icons, replaced Gittip with Gratipay (new alias pf-gratipay), added Bower and Git Tags, submitted to Fontello.
@@ -144,16 +140,20 @@ PaymentFont was useful to you? Awesome! So, why not buy me a beer to keep the pr
 - The CSS files are licensed under the MIT License:
   - http://opensource.org/licenses/mit-license.html
 - Attribution is not required, but much appreciated:
-  - PaymentFont by @AMPoellmann - http://paymentfont.io
+  - PaymentFont by @AMPoellmann - https://paymentfont.com
 
 ## Disclaimer
 
 All used trademarks, brands and/or names are the property of their respective owners.
 The use of these trademarks, brands and/or names does not indicate endorsement of the property holder by us, nor vice versa.
 
+## Check out [CryptoFont](https://cryptofont.com) as well!
+
+Looking for a sleek webfont featuring your favourite cryptocurrencies? **Check out my free [CryptoFont](https://cryptofont.com)!**
+
 ## Author
 
-**Handcrafted with love by [Alexander Manfred Pöllmann](https://AlexanderPoellmann.com) in Vienna &amp; Rome.**
+**Handcrafted with love by [Alexander Manfred Pöllmann](https://alexanderpoellmann.com) in Vienna &amp; Rome.**
 
 Follow me on [Twitter](https://twitter.com/AMPoellmann), [Instagram](https://instagram.com/AlexanderPoellmann) and [GitHub](https://github.com/AlexanderPoellmann) :-)
 
